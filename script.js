@@ -51,6 +51,7 @@ array.push(harflar[13]);
 array.push(harflar[6]);
 array.push(harflar[7]);
 array.push(harflar[16]);
+array.join("")
 console.log("Oltinchi masala.. ");
 console.log(array);
 
