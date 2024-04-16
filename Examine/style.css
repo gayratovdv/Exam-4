@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 622px;
+}
+
+.wrapper {
+    display: flex;
+    margin-right: 300px;
+}
+
+.point {
+    display: flex;
+}
+
+p {
+    margin-left: 63px;
+    color: grey;
+}
+
+.wrapper-2 {
+    margin-left: 315px;
+    margin-top: 200px;
+}
+
+h6 {
+    font-size: 15px;
+    margin-left: 3px;
+    color: grey;
+}
+
+#password {
+    width: 295px;
+    height: 40px;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+
+#email {
+    width: 295px;
+    height: 40px;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+
+#login {
+    width: 295px;
+    height: 40px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    background-color: rgb(1, 178, 1);
+    color: white;
+}
+
+#google {
+    width: 295px;
+    height: 40px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    background-color: rgb(6, 2, 39);
+    color: white;
+}
+
+label {
+    color: grey;
+}
+
+span {
+    color: blue;
+}
+
+.an {
+    margin-right: 00px;
+    margin-top: 120px;
+    
+}
+
+h5 {
+    color: grey;
+}
+
+.text {
+    margin-top: 150px;
+    margin-left: 22px;
+}
+
+.wrap {
+    display: flex;
+}
+
+.wrap-2 {
+    display: flex;
+}    
+
+.ako {
+    margin-left: 7px;
+}
+
+.aka {
+    margin-left: 68px;
+}
+
+.img {
+    width: 3000px; 
+    height: 777px;
+    margin-right: 300px;
+}
